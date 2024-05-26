@@ -1,8 +1,6 @@
 n.
 amber--琥珀色
 nume'rator--分子
-moni'rator--监控器
-nomi'rator--提名者
 denomirator--分母
 fraction--分数
 plum--梅花
