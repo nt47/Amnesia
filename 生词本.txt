@@ -85,3 +85,7 @@ Uterus--子宫
 commander--司令
 mockup--设计模型
 balsamic--意大利香醋
+ceremony--仪式
+billion--十亿
+motel--汽车旅馆
+rum--朗姆酒
