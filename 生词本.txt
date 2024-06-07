@@ -90,3 +90,4 @@ billion--十亿
 motel--汽车旅馆
 rum--朗姆酒
 jade--玉
+canteen--食堂
