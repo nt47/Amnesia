@@ -91,3 +91,4 @@ motel--汽车旅馆
 rum--朗姆酒
 jade--玉
 canteen--食堂
+renegades--叛徒们
