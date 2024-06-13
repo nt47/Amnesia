@@ -92,3 +92,4 @@ rum--朗姆酒
 jade--玉
 canteen--食堂
 renegades--叛徒们
+crumb--屑
