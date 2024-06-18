@@ -94,3 +94,5 @@ canteen--食堂
 renegades--叛徒们
 crumb--屑
 saw--锯
+pagination--分页器
+timber--木材
