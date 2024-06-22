@@ -96,3 +96,4 @@ crumb--屑
 saw--锯
 pagination--分页器
 timber--木材
+intercepter--拦截器
