@@ -62,5 +62,5 @@ rum--朗姆酒
 renegades--叛徒们
 crumb--屑
 pagination--分页器
-intercepter--拦截器
+interceptor--拦截器
 accumulator--累加器
