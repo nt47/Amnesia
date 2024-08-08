@@ -67,3 +67,4 @@ accumulator--累加器
 clamp--钳形
 tri-puresue~~纯种
 (sub-)descendant-裔~~第三等的
+capsule--胶囊
