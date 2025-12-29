@@ -13,15 +13,12 @@ Kronos--克罗诺斯
 bound--边界
 caption--标题
 ellipse--椭圆
-eclipse--日蚀
 literacy--读写能力
 iteratror--迭代器
 vodka--伏特加
 Santa--圣诞
 pests--害虫
-cousin--表哥
 cof--咖啡因
-cop--警察
 copper--铜
 aurum--金
 proton--质子
