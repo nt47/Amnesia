@@ -2,7 +2,7 @@ n.
 nume'rator--分子
 denomirator--分母
 fraction--分数
-plum--梅花
+plum--李树
 in blossom--开花
 Prunus--李属
 therapy--疗法
@@ -41,3 +41,7 @@ accent--腔调
 coil--线圈
 lime--石灰
 marvel--奇迹
+tortoise--龟
+remark--备注
+cataclysm--大洪水
+clover--三叶草
