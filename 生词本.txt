@@ -1,7 +1,6 @@
 n.
 nume'rator--分子
 denomirator--分母
-fraction--分数
 plum--李树
 in blossom--开花
 Prunus--李属
@@ -9,16 +8,12 @@ therapy--疗法
 photon--光子
 rejuvenation --复兴
 feat.--合伙人
-Kronos--克罗诺斯
-bound--边界
+boundary--边界
 caption--标题
 ellipse--椭圆
 literacy--读写能力
-iteratror--迭代器
-vodka--伏特加
 Santa--圣诞
-pests--害虫
-cof--咖啡因
+coffeine--咖啡因
 copper--铜
 aurum--金
 proton--质子
@@ -47,4 +42,4 @@ cataclysm--大洪水
 clover--三叶草
 Persia--波斯
 inhibitor--抑制剂
-Maryland--马里兰
+algorithm--算法
