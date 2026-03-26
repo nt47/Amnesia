@@ -10,11 +10,9 @@ caffeine--咖啡因
 cocaine--可卡因
 copper--铜
 aurum--金
-trillion--万亿
 ovary--卵巢
 Uterus--子宫
 ceremony--仪式
-billion--十亿
 motel--汽车旅馆
 renegades--叛徒们
 coil--线圈
@@ -24,6 +22,6 @@ algorithm--算法
 venture--企业
 pattern--套路
 interest--利息
-Abacus--盘算
+abacus--算盘
 leverage--loan to boost
 butcher--屠夫
