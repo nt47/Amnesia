@@ -3,25 +3,14 @@ fraction--分数
 numorator--分子
 denominator--分母#：研究发现，把deno换成dedominator就很好记
 therapy--疗法
-feat.--合伙人
+feat.--特邀嘉宾
 caption--标题
 ellipse--椭圆
-caffeine--咖啡因
-cocaine--可卡因
 copper--铜
-aurum--金
 ovary--卵巢
 Uterus--子宫
-ceremony--仪式
-motel--汽车旅馆
 renegades--叛徒们
-coil--线圈
-tortoise--龟
 algorithm--算法
 'preference--偏好
-venture--企业
-pattern--套路
-interest--利息
-abacus--算盘
 leverage--loan to boost
-butcher--屠夫
+nano--纳米技术
