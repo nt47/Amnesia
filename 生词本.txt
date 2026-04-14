@@ -1,16 +1,14 @@
 n.
 fraction--分数
-numorator--分子
+numerator--分子
 denominator--分母#：研究发现，把deno换成dedominator就很好记
 therapy--疗法
-feat.--特邀嘉宾
-caption--标题
-ellipse--椭圆
 copper--铜
 ovary--卵巢
 Uterus--子宫
 renegades--叛徒们
 algorithm--算法
-'preference--偏好
-leverage--loan to boost
 nano--纳米技术
+zebra--斑马
+bac'teria--细菌
+bac'teriophage--噬菌体
